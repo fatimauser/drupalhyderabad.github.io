@@ -1,0 +1,9 @@
+header,section.info{
+	background-color: #52C5E4;
+}
+section.info {
+    color: #fff;
+}
+header hr.star-light:after, section.info  hr.star-light:after{
+    background-color: #52C5E4;
+}
